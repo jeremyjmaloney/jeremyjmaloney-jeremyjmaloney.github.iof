@@ -1,4 +1,5 @@
 # Jeremy J Maloney Portfolio Site
+To visit the site go to: https://jeremyjmaloney.github.io/portfolio/
 
 ## Project Goal
 
