@@ -2,6 +2,7 @@ import './App.css';
 import { Nav } from './components/Nav/index';
 import { HeroCard} from './components/HeroCard/index';
 import headshot from './images/headshot.jpeg';
+import handshake from './images/handshake.jpg';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <main id="home" className='flex flex-col mx-10 my-10'>
         <HeroCard 
           image={headshot}
+          imageWidth="w-80"
           primaryText="Front End Developer to enrich your online business"
           hasCta
           ctaText="Get to know me"
@@ -18,7 +20,8 @@ function App() {
         />
         <HeroCard 
           isRow
-          image={headshot}
+          image={handshake}
+          imageWidth="w-80"
           secondaryText='My goal is to grow as both a developer and a leader who uplifts others, fosters curiosity and collaboration, and build the best quality product for the customer that also meets the needs of the business.'
           ctaText="Get to know me"
           id="getToKnowMe"
