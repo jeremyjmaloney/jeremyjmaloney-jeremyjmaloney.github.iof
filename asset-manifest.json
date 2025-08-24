@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jeremyjmaloney-jeremyjmaloney.github.iof/static/css/main.f855e6bc.css",
-    "main.js": "/jeremyjmaloney-jeremyjmaloney.github.iof/static/js/main.2365dc8c.js",
-    "static/js/453.1dd711a6.chunk.js": "/jeremyjmaloney-jeremyjmaloney.github.iof/static/js/453.1dd711a6.chunk.js",
-    "static/media/logo.svg": "/jeremyjmaloney-jeremyjmaloney.github.iof/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/jeremyjmaloney-jeremyjmaloney.github.iof/index.html",
-    "main.f855e6bc.css.map": "/jeremyjmaloney-jeremyjmaloney.github.iof/static/css/main.f855e6bc.css.map",
-    "main.2365dc8c.js.map": "/jeremyjmaloney-jeremyjmaloney.github.iof/static/js/main.2365dc8c.js.map",
-    "453.1dd711a6.chunk.js.map": "/jeremyjmaloney-jeremyjmaloney.github.iof/static/js/453.1dd711a6.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/portfolio/static/js/main.9fda8f35.js",
+    "static/js/453.1dd711a6.chunk.js": "/portfolio/static/js/453.1dd711a6.chunk.js",
+    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio/index.html",
+    "main.f855e6bc.css.map": "/portfolio/static/css/main.f855e6bc.css.map",
+    "main.9fda8f35.js.map": "/portfolio/static/js/main.9fda8f35.js.map",
+    "453.1dd711a6.chunk.js.map": "/portfolio/static/js/453.1dd711a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.2365dc8c.js"
+    "static/js/main.9fda8f35.js"
   ]
 }
