@@ -5,6 +5,7 @@ import headshot from "./images/headshot.jpeg";
 import handshake from "./images/handshake.jpg";
 import Carousel from "./components/Carousel/index";
 import articles from "./data/articles";
+import NasaApod from "components/NasaApod";
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
         <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-100 to-gray-200">
           <Carousel articles={articles} interval={5000} />
         </div>
+        <NasaApod />
       </main>
     </div>
   );
