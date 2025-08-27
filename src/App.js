@@ -3,6 +3,7 @@ import { Nav } from "./components/Nav/index";
 import { HeroCard } from "./components/HeroCard/index";
 import { About } from "./components/About/index";
 import { Skills } from "./components/Skills/index";
+import { Projects } from "./components/Projects/index";
 import { Footer } from "./components/Footer/index";
 
 function App() {
@@ -13,7 +14,7 @@ function App() {
         <HeroCard />
         <About />
         <Skills />
-        {/* <Projects /> */}
+        <Projects />
       </main>
       <Footer />
     </div>
