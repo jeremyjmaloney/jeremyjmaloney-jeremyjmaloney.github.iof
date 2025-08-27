@@ -53,12 +53,6 @@ export const Nav = () => {
             >
               Projects
             </button>
-            <button
-              onClick={() => scrollToSection("contact")}
-              className="text-gray-700 hover:text-blue-600 transition-colors duration-200"
-            >
-              Contact
-            </button>
           </nav>
 
           {/* Social Links */}
@@ -113,12 +107,6 @@ export const Nav = () => {
                 className="text-left text-gray-700 hover:text-blue-600 transition-colors duration-200"
               >
                 Projects
-              </button>
-              <button
-                onClick={() => scrollToSection("contact")}
-                className="text-left text-gray-700 hover:text-blue-600 transition-colors duration-200"
-              >
-                Contact
               </button>
             </nav>
             <div className="flex items-center space-x-4 mt-4">

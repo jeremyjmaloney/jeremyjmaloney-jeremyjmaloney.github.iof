@@ -22,6 +22,7 @@ export const Skills = () => {
         { name: "Tailwind CSS", level: 75 },
         { name: "Next.js", level: 75 },
         { name: "TypeScript", level: 70 },
+        { name: "CMS Systems", level: 80 },
       ],
     },
     {
@@ -30,14 +31,11 @@ export const Skills = () => {
         { name: "Git", level: 98 },
         { name: "VS Code", level: 95 },
         { name: "Confluence", level: 90 },
-        { name: "Copilot", level: 80 },
         { name: "Jira", level: 90 },
         { name: "Bitbucket", level: 90 },
         { name: "Bamboo", level: 85 },
-        { name: "Harness", level: 85 },
         { name: "Figma", level: 85 },
-        { name: "DevTools", level: 90 },
-        { name: "CMS Systems", level: 80 },
+        { name: "Copilot", level: 80 },
       ],
     },
     {
@@ -79,7 +77,7 @@ export const Skills = () => {
         </div>
 
         <div className="max-w-6xl mx-auto">
-          <div className="grid lg:grid-cols-3 gap-8">
+          <div className="grid md:grid-cols-3 gap-8">
             {skillCategories.map((category, categoryIndex) => (
               <div
                 key={categoryIndex}

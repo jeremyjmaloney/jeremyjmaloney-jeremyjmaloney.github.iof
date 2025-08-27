@@ -3,6 +3,7 @@ import { Nav } from "./components/Nav/index";
 import { HeroCard } from "./components/HeroCard/index";
 import { About } from "./components/About/index";
 import { Skills } from "./components/Skills/index";
+import { Footer } from "./components/Footer/index";
 
 function App() {
   return (
@@ -13,9 +14,8 @@ function App() {
         <About />
         <Skills />
         {/* <Projects /> */}
-        {/* <Contact /> */}
       </main>
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
