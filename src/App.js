@@ -1,6 +1,7 @@
 import "./App.css";
 import { Nav } from "./components/Nav/index";
 import { HeroCard } from "./components/HeroCard/index";
+import { About } from "./components/About/index";
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
       <Nav />
       <main>
         <HeroCard />
-        {/* <About /> */}
+        <About />
         {/* <Skills /> */}
         {/* <Projects /> */}
         {/* <Contact /> */}

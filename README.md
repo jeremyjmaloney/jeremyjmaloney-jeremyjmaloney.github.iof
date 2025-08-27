@@ -11,4 +11,4 @@ Create a portfolio site that exeplifies some of my skill while also learning tai
 create-react-app
 tailwindcss
 gh-pages
-NASA Image and Video Library
+lucide-react
