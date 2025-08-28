@@ -43,15 +43,16 @@ export const HeroCard = () => {
 
           {/* Title */}
           <p className="text-xl md:text-2xl text-gray-600 mb-8 leading-relaxed">
-            Front End Developer & Problem Solver
+            Front End Developer & Leader
           </p>
 
           {/* Intro Text */}
           <p className="text-lg text-gray-500 mb-12 max-w-2xl mx-auto leading-relaxed">
-            My goal is to continue to grow as both a developer and a leader who
-            uplifts others, fosters curiosity and collaboration, and build the
-            best quality product for the customer that also meets the needs of
-            the business.
+            At my core, I'm a builder and problem-solver. I love asking
+            questions, breaking down complexity, and crafting thoughtful
+            solutions that make an impact. My focus is on delivering sustainable
+            software and elevating the teams I work with—always pushing for
+            excellence and innovation.
           </p>
 
           {/* CTA */}
